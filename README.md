@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kevinzuccaccia
+- 👀 I’m interested in bê a programmer
+- 🌱 I’m currently learning Back-End
+- 🇧🇷 I'm Brazilian and live here
+- 🇺🇲 Learning English
